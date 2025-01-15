@@ -2,7 +2,7 @@
 
 My name is Lucas Balbueno Vicêncio, I'm 20 years old and I'm a developer student.
 
-📖 I study Front-end Web Development and Back-end at Senac tech in Porto Alegre, Rio Grande do Sul.
+📖 I study Full Stack Development.
 
 💼 I am currently looking for my first job opportunity in the job market.
 
