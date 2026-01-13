@@ -11,13 +11,10 @@ Meu nome é **Lucas Balbueno Vicêncio**, tenho **22 anos** e sou **estudante de
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/github-contribution-grid-snake.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/pacman-contribution-graph.svg" style="max-width:100%; height:auto;">
 </picture>
-
-<details>
-  <summary>Minhas tecnologias 🖥</summary>
 
 ## Minhas tecnologias
 
@@ -49,14 +46,8 @@ Meu nome é **Lucas Balbueno Vicêncio**, tenho **22 anos** e sou **estudante de
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![PREMIERE](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-</details>
-
-<details>
-  <summary>Contato 📫</summary>
 
 ## Contato
 <a href="https://www.linkedin.com/in/lucasbalbueno/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-</details>
