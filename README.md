@@ -9,12 +9,12 @@ Meu nome é **Lucas Balbueno Vicêncio**, tenho **22 anos** e sou **estudante de
 🙋‍♂️ Me considero **entusiasmado e apaixonado** pelo mundo da programação. Gosto muito de estudar **novas tecnologias**, acompanhar **tendências de mercado** e tenho grande interesse em **IA (Inteligência Artificial)** e **IoT (Internet das Coisas)**.
 
 <br>
-<!--
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/pacman-contribution-graph.svg" style="max-width:100%; height:auto;">
-</picture>]-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/github-contribution-grid-snake.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/LucasBalbueno/LucasBalbueno/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;">
+</picture>
 
 <details>
   <summary>Minhas tecnologias 🖥</summary>
