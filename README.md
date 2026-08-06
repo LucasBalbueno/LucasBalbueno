@@ -1,12 +1,14 @@
 # Olá 👋
 
-Meu nome é **Lucas Balbueno Vicêncio**, tenho **22 anos** e sou **estudante de desenvolvimento de software**.
+**Desenvolvedor Full Stack** cursando bacharelado em **Engenharia de Software**, apaixonado por arquitetura de software, integração de sistemas e modernização de aplicações. Meu objetivo é transformar desafios de negócio em soluções escaláveis, eficientes e de alta performance, sempre apoiado pelas boas práticas de engenharia.
 
-📖 Estudo **Engenharia de Software** na **UniCesumar**.
+Atualmente participo da evolução tecnológica do marketplace da PraKaranga, com a entrega de +80 features que aumentaram a retenção e experiência do usuário e modernizando o sistema backend **.NET Framework** 4.7 através de um barramento usando **Python** com **FastAPI**.
 
-💼 Atualmente estou trabalhando na TrindTech como desenvolvedor Junior. Nesse ano de 2026 procuro melhorar bastante minhas habilidades técnicas, principalmente no desenvolvimento Back-End.
+Também atuo no desenvolvimento de um sistema completo de gestão veicular, trabalhando desde a modelagem de banco de dados e implementação das regras de negócio até a construção de interfaces em React e integrações com gateways de pagamento, serviços de e-mail, IA e autenticação centralizada com Keycloak.
 
-🙋‍♂️ Me considero **entusiasmado e apaixonado** pelo mundo da programação. Gosto muito de estudar **novas tecnologias**, acompanhar **tendências de mercado** e tenho grande interesse em **IA (Inteligência Artificial)** e **IoT (Internet das Coisas)**.
+Tenho experiência no desenvolvimento de APIs robustas em **C# .NET** e **Python**, arquitetura baseada em **DDD** e **Microsserviços**, além da criação de soluções seguras e escaláveis.
+
+Além do código, dedico meu tempo ao **trabalho voluntário em causas sociais**, auxiliando no desenvolvimento do pensamento crítico, planejamento estratégico, habilidades de liderança e empreendedorismo. Acredito que a visão de negócios e a tecnologia, quando unidas, são pilares para gerar **impacto positivo** e impulsionar a **inovação**.
 
 <br>
 
@@ -19,19 +21,35 @@ Meu nome é **Lucas Balbueno Vicêncio**, tenho **22 anos** e sou **estudante de
 ## Minhas tecnologias
 
 ##### Desenvolvimento de software:
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![DOTNET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NEXTJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![STYLEDCOMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![STYLEDCOMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+##### Inteligência Artificial:
+![CHATGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![CLAUDE](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GEMINI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NOTEBOOKLM](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white)
+![OLLAMA](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PERPLEXITY](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![DEEPSEEK](https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white)
 
 ##### Ferramentas e IDEs:
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -39,13 +57,6 @@ Meu nome é **Lucas Balbueno Vicêncio**, tenho **22 anos** e sou **estudante de
 ![INTELLIJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-##### Design e conhecimentos em UX/UI:
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![PREMIERE](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
 
 ## Contato
 <a href="https://www.linkedin.com/in/lucasbalbueno/">
